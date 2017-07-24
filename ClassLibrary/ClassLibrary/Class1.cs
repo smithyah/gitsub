@@ -12,5 +12,10 @@ namespace ClassLibrary
         {
             return string.Format("{0}+", str);
         }
+
+        public string AddStr(string str)
+        {
+            return string.Format("{0}dfgsdghsdhg", str);
+        }
     }
 }
