@@ -10,7 +10,7 @@ namespace ClassLibrary
     {
         public string AddPlus(string str)
         {
-            return string.Format("{0}+", str);
+            return string.Format("{0}+7777", str);
         }
 
         public string AddStr(string str)
